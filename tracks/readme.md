@@ -28,7 +28,7 @@
 * Nurburgring GP (GT)
 * Nurburgring - Sprint
 * Nurburgring - Sprint (GT)
-* Red Bull Ring GP
+* [Red Bull Ring GP](./red_bull_ring_gp)
 * Red Bull Ring National
 * Silverstone - International
 * Silverstone - National
