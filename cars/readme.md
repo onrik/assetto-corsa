@@ -1,10 +1,15 @@
 # Assetto Corsa cars list
 
-## Abarth (3)
+## Abarth
 
-* Abarth 500 Assetto Corse
-* Abarth 500 EsseEsse
-* Abarth 595 SS
+|                             |     | Weight, kg  | Power, bhp| Torque, Nm| Top speed, km/h | ABS | TC |
+| --------------------------- |:---:| :----------:|:---------:|:---------:|:---------------:|:---:|:--:|
+| Abarth 500 Assetto Corse   | FWD |  930 | 195 | 302 | 225 | ✅ | ❌ |
+| Abarth 500 EsseEsse        | FWD | 1025 | 160 | 230 | 211 | ✅ | ✅ |
+| Abarth 500 EsseEsse Step 1 | FWD | 1025 | 175 | 245 | 211 | ✅ | ✅ |
+| Abarth 595 SS              | RWD |  470 |  32 |  44 | 130 | ❌ | ❌ |
+| Abarth 595 SS Step 1       | RWD |  470 |  32 |  44 | 130 | ❌ | ❌ |
+| Abarth 595 SS Step 2       | RWD |  470 |  65 |  80 |  -  | ❌ | ❌ |
 
 ## Alfa Romeo (8)
 
