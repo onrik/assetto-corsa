@@ -2,8 +2,8 @@
 
 ## Abarth
 
-|                             |     | Weight, kg  | Power, bhp| Torque, Nm| Top speed, km/h | ABS | TC |
-| --------------------------- |:---:| :----------:|:---------:|:---------:|:---------------:|:---:|:--:|
+|                            |     | Weight, kg  | Power, bhp| Torque, Nm| Top speed, km/h | ABS | TC |
+| -------------------------- |:---:| :----------:|:---------:|:---------:|:---------------:|:---:|:--:|
 | Abarth 500 Assetto Corse   | FWD |  930 | 195 | 302 | 225 | ✅ | ❌ |
 | Abarth 500 EsseEsse        | FWD | 1025 | 160 | 230 | 211 | ✅ | ✅ |
 | Abarth 500 EsseEsse Step 1 | FWD | 1025 | 175 | 245 | 211 | ✅ | ✅ |
@@ -11,28 +11,33 @@
 | Abarth 595 SS Step 1       | RWD |  470 |  32 |  44 | 130 | ❌ | ❌ |
 | Abarth 595 SS Step 2       | RWD |  470 |  65 |  80 |  -  | ❌ | ❌ |
 
-## Alfa Romeo (8)
+## Alfa Romeo
 
-* Alfa Romeo 155 TI V6
-* Alfa Romeo 33 Stradale
-* Alfa Romeo 4C
-* Alfa Romeo GTA
-* Alfa Romeo Giulia Quadrifoglio
-* Alfa Romeo Mito QV
-* Alfa Romeo Giulietta QV
-* Alfa Romeo Giulietta QV Launch Edition 2014
+|                             |     | Weight, kg  | Power, bhp| Torque, Nm| Top speed, km/h | ABS | TC |
+| --------------------------- |:---:| :----------:|:---------:|:---------:|:---------------:|:---:|:--:|
+| Alfa Romeo 155 TI V6                        | AWD | 1050 | 420 | 294 | 280+ |
+| Alfa Romeo 33 Stradale                      | RWD |  700 | 230 | 206 | 260 |
+| Alfa Romeo 4C                               | RWD |  925 | 240 | 350 | 245 |
+| Alfa Romeo Giulia Quadrifoglio              | RWD | 1595 | 510 | 600 | 307 |
+| Alfa Romeo GTA                              | RWD |  750 | 170 | 200 | 210+|
+| Alfa Romeo Mito QV                          | FWD | 1140 | 168 | 250 | 219 |
+| Alfa Romeo Giulietta QV                     | FWD | 1390 | 235 | 349 | 241 |
+| Alfa Romeo Giulietta QV Launch Edition 2014 | FWD | 1390 | 240 | 349 | 241 |
 
-## Audi (9)
+## Audi
 
-* Audi R18 e-tron quattro 2014
-* Audi R8 LMS 201
-* Audi R8 LMS Ultra
-* Audi R8 V10 Plus
-* Audi S1
-* Audi Sport quattro
-* Audi Sport quattro S1 E2
-* Audi TT Cup
-* Audi TT RS VLN
+|                               |     | Weight, kg  | Power, bhp| Torque, Nm| Top speed, km/h | ABS | TC |
+| ----------------------------- |:---:| :----------:|:---------:|:---------:|:---------------:|:---:|:--:|
+| Audi R18 e-tron quattro 2014  | AWD |  915 | 700+ | 850+ | 330 
+| Audi R8 LMS 2016              | RWD | 1270 | 500 | 500 | -
+| Audi R8 LMS Ultra             | RWD | 1259 | 570 | 500+ | -
+| Audi R8 V10 Plus              | AWD | 1620 | 550 | 540 | 317
+| Audi S1                       | AWD | 1340 | 231 | 370 | 241
+| Audi Sport quattro            | AWD | 1298 | 306 | 350 | 250 
+| Audi Sport quattro Step 1     | AWD | 1298 | 373 | 425 | 272 
+| Audi Sport quattro S1 E2      | AWD | 1090 | 540 | 570 | 250+
+| Audi TT Cup                   | FWD | 1125 | 310 | 400+ | - 
+| Audi TT RS VLN                | FWD | 1120 | 390 | 530 | -
 
 ## BMW (10)
 
