@@ -33,7 +33,7 @@
 * Silverstone - International
 * Silverstone - National
 * Silverstone 1967
-* Silverstone GP
+* [Silverstone GP](./silverstone_gp)
 * Spa
 * Trento-Bondone
 * Vallelunga
