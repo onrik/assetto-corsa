@@ -24,7 +24,7 @@
 * Nordschleife Endurance
 * Nordschleife Endurance Cup
 * Nordschleife Tourist
-* Nurburgring GP
+* [Nurburgring GP](./nurburgring_gp)
 * Nurburgring GP (GT)
 * Nurburgring - Sprint
 * Nurburgring - Sprint (GT)
