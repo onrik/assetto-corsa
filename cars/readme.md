@@ -32,25 +32,36 @@
 | Audi R8 LMS 2016              | RWD | 1270 | 500 | 500 | -
 | Audi R8 LMS Ultra             | RWD | 1259 | 570 | 500+ | -
 | Audi R8 V10 Plus              | AWD | 1620 | 550 | 540 | 317
-| Audi S1                       | AWD | 1340 | 231 | 370 | 241
+| Audi S1                       | AWD | 1340 | 231 | 370 | 241 | ✅ | ✅ |
 | Audi Sport quattro            | AWD | 1298 | 306 | 350 | 250 
 | Audi Sport quattro Step 1     | AWD | 1298 | 373 | 425 | 272 
 | Audi Sport quattro S1 E2      | AWD | 1090 | 540 | 570 | 250+
 | Audi TT Cup                   | FWD | 1125 | 310 | 400+ | - 
 | Audi TT RS VLN                | FWD | 1120 | 390 | 530 | -
 
-## BMW (10)
 
-* BMW M1
-* BMW M235i Racing
-* BMW M3 E30
-* BMW M3 E30 Group A
-* BMW M3 E92
-* BMW M3 GT2
-* BMW M4 Coupe
-* BMW M4 Coupe
-* BMW Z4 E89
-* BMW Z4 GT3
+## BMW
+
+|                    |     | Weight, kg  | Power, bhp| Torque, Nm| Top speed, km/h | ABS | TC |
+| ------------------ |:---:| :----------:|:---------:|:---------:|:---------------:|:---:|:--:|
+| BMW M1                 | RWD | 1495 | 340  | 500 | 250+ | 
+| BMW M1 Stage 3         | RWD | 1495 | 400  | 580 | 250+ | 
+| BMW M235i Racing       | RWD | 1424 | 333  | 500 | 250+ |
+| BMW M3 E30             | RWD | 1200 | 238  | 240 | 248  |
+| BMW M3 E30 Drift       | RWD | 1150 | 343  | 365 | 250+ |
+| BMW M3 E30 Step 1      | RWD | 1200 | 238  | 240 | 248  |
+| BMW M3 E30 Group A     | RWD |  945 | 290+ | 310 | 280+ | 
+| BMW M3 E30 Group A 92  | RWD |  945 | 350+ | 310 | 280+ | 
+| BMW M3 E92             | RWD | 1605 | 414  | 400 | 250+ |
+| BMW M3 E92 Drift       | RWD | 1605 | 414  | 400 | 250+ |
+| BMW M3 E92 Step 1      | RWD | 1605 | 414  | 400 | 250+ |
+| BMW M3 GT2             | RWD | 1245 | 485+ | 499 | 270+ |
+| BMW M4 Coupe           | RWD | 1572 | 431  | 550 | 250  |
+| BMW M4 Coupe Akrapovic | RWD | 1572 | 445  | 589 | 250  |
+| BMW Z4 E89             | RWD | 1605 | 330  | 500 | 250+ |
+| BMW Z4 E89 Drift       | RWD | 1525 | 390  | 580 | 250+ |
+| BMW Z4 E89 Step 1      | RWD | 1605 | 330  | 500 | 250+ |
+| BMW Z4 GT3             | RWD | 1265 | 530  | 520 | 280+ |
 
 ## Chevrolet (2)
 
