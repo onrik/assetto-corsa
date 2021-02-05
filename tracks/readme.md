@@ -1,7 +1,7 @@
 # Assetto corsa tracks
 
 |                                              | Country     | Length | Hotlap |
-| -------------------------------------------- | -----------:| :-----:|:--------:|
+| -------------------------------------------- |:-----------:| -----:|:--------:|
 | Barcelona GP                                 | 🇪🇸 |  4655m | https://youtu.be/hyP4Udqfj8c |
 | Barcelona Moto                               | 🇪🇸 |  4727m | https://youtu.be/z1TvGbJfG1U |
 | Black Cat County                             | 🇺🇸 |  6478m | 
