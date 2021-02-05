@@ -2,27 +2,27 @@
 
 ## Abarth
 
-|                            |     | Weight, kg  | Power, bhp| Torque, Nm| Top speed, km/h | ABS | TC |
-| -------------------------- |:---:| :----------:|:---------:|:---------:|:---------------:|:---:|:--:|
-| Abarth 500 Assetto Corse   | FWD |  930 | 195 | 302 | 225 | ✅ | ❌ |
-| Abarth 500 EsseEsse        | FWD | 1025 | 160 | 230 | 211 | ✅ | ✅ |
-| Abarth 500 EsseEsse Step 1 | FWD | 1025 | 175 | 245 | 211 | ✅ | ✅ |
-| Abarth 595 SS              | RWD |  470 |  32 |  44 | 130 | ❌ | ❌ |
-| Abarth 595 SS Step 1       | RWD |  470 |  32 |  44 | 130 | ❌ | ❌ |
-| Abarth 595 SS Step 2       | RWD |  470 |  65 |  80 |  -  | ❌ | ❌ |
+|                            |     | Weight  | Power   | Torque | Top speed | ABS | TC |
+| -------------------------- |:---:| -------:| -------:| ------:| --------:|:---:|:--:|
+| Abarth 500 Assetto Corse   | FWD |  930 kg | 195 bhp | 302 Nm | 225 km/h | ✅ | ❌ |
+| Abarth 500 EsseEsse        | FWD | 1025 kg | 160 bhp | 230 Nm | 211 km/h | ✅ | ✅ |
+| Abarth 500 EsseEsse Step 1 | FWD | 1025 kg | 175 bhp | 245 Nm | 211 km/h | ✅ | ✅ |
+| Abarth 595 SS              | RWD |  470 kg |  32 bhp |  44 Nm | 130 km/h | ❌ | ❌ |
+| Abarth 595 SS Step 1       | RWD |  470 kg |  32 bhp |  44 Nm | 130 km/h | ❌ | ❌ |
+| Abarth 595 SS Step 2       | RWD |  470 kg |  65 bhp |  80 Nm |  -       | ❌ | ❌ |
 
 ## Alfa Romeo
 
-|                             |     | Weight, kg  | Power, bhp| Torque, Nm| Top speed, km/h | ABS | TC |
-| --------------------------- |:---:| :----------:|:---------:|:---------:|:---------------:|:---:|:--:|
-| Alfa Romeo 155 TI V6                        | AWD | 1050 | 420 | 294 | 280+ |
-| Alfa Romeo 33 Stradale                      | RWD |  700 | 230 | 206 | 260 |
-| Alfa Romeo 4C                               | RWD |  925 | 240 | 350 | 245 |
-| Alfa Romeo Giulia Quadrifoglio              | RWD | 1595 | 510 | 600 | 307 |
-| Alfa Romeo GTA                              | RWD |  750 | 170 | 200 | 210+|
-| Alfa Romeo Mito QV                          | FWD | 1140 | 168 | 250 | 219 |
-| Alfa Romeo Giulietta QV                     | FWD | 1390 | 235 | 349 | 241 |
-| Alfa Romeo Giulietta QV Launch Edition 2014 | FWD | 1390 | 240 | 349 | 241 |
+|                                             |     | Weight  | Power   | Torque | Top speed | ABS | TC |
+| ------------------------------------------- |:---:| -------:| -------:| ------:| ---------:|:---:|:--:|
+| Alfa Romeo 155 TI V6                        | AWD | 1050 kg | 420 bhp | 294 Nm | 280+ km/h |
+| Alfa Romeo 33 Stradale                      | RWD |  700 kg | 230 bhp | 206 Nm |  260 km/h |
+| Alfa Romeo 4C                               | RWD |  925 kg | 240 bhp | 350 Nm |  245 km/h |
+| Alfa Romeo Giulia Quadrifoglio              | RWD | 1595 kg | 510 bhp | 600 Nm |  307 km/h |
+| Alfa Romeo GTA                              | RWD |  750 kg | 170 bhp | 200 Nm | 210+ km/h |
+| Alfa Romeo Mito QV                          | FWD | 1140 kg | 168 bhp | 250 Nm |  219 km/h |
+| Alfa Romeo Giulietta QV                     | FWD | 1390 kg | 235 bhp | 349 Nm |  241 km/h |
+| Alfa Romeo Giulietta QV Launch Edition 2014 | FWD | 1390 kg | 240 bhp | 349 Nm |  241 km/h |
 
 ## Audi
 
@@ -42,8 +42,8 @@
 
 ## BMW
 
-|                        |     | Weight | Power | Torque | Top speed | ABS | TC |
-| ---------------------- |:---:| ------:| --------:| ------:| ---------: |:---:|:--:|
+|                        |     | Weight | Power     | Torque | Top speed | ABS | TC |
+| ---------------------- |:---:| ------:| ---------:| ------:| --------: |:---:|:--:|
 | BMW M1                 | RWD | 1495 kg |  340 bhp | 500 Nm | 250+ km/h | 
 | BMW M1 Stage 3         | RWD | 1495 kg |  400 bhp | 580 Nm | 250+ km/h | 
 | BMW M235i Racing       | RWD | 1424 kg |  333 bhp | 500 Nm | 250+ km/h | ✅ |  ✅ |
@@ -65,10 +65,10 @@
 
 ## Chevrolet
 
-|                                |     | Weight, kg  | Power, bhp| Torque, Nm| Top speed, km/h | ABS | TC |
-| -------------------------------|:---:| :----------:|:---------:|:---------:|:---------------:|:---:|:--:|
-| Chevrolet Corvette C7 Stingray | |
-| Chevrolet Corvette C7R         | |
+|                                |     | Weight  | Power    | Torque  | Top speed | ABS | TC |
+| -------------------------------|:---:| -------:| --------:|--------:|:--------:|:---:|:--:|
+| Chevrolet Corvette C7 Stingray | RWD | 1496 kg |  455 bhp |  625 Nm | 290 km/h | ✅ | ✅ |
+| Chevrolet Corvette C7R         | RWD | 1329 kg | 495+ bhp | 650+ Nm | 280 km/h | ❌ | ✅ |
 
 ## Ferrari (18)
 
