@@ -70,185 +70,207 @@
 | Chevrolet Corvette C7 Stingray | RWD | 1496 kg |  455 bhp |  625 Nm | 290 km/h | ✅ | ✅ |
 | Chevrolet Corvette C7R         | RWD | 1329 kg | 495+ bhp | 650+ Nm | 280 km/h | ❌ | ✅ |
 
-## Ferrari (18)
 
-* Ferrari 250 GTO
-* Ferrari 312/67
-* Ferrari 312T
-* Ferrari 330 P4
-* Ferrari 458 GT2
-* Ferrari 458 Italia
-* Ferrari 488 GT3
-* Ferrari 488 GTB
-* Ferrari 599XX Evo
-* Ferrari 812 Superfast
-* Ferrari F138
-* Ferrari F2004
-* Ferrari F40
-* Ferrari FXX K
-* Ferrari GTO
-* Ferrari LaFerrari
-* Ferrari SF15-T
-* Ferrari SF70H
+## Ferrari
+|                             |     | Weight  | Power   | Torque | Top speed | ABS | TC |
+| --------------------------- |:---:| -------:| -------:| ------:| ---------:|:---:|:--:|
+| Ferrari 250 GTO             | RWD |  880 kg |  300 bhp |  294 Nm |  280 km/h |    |   |
+| Ferrari 312/67              | RWD |  548 kg |  390 bhp |         |           |    |   |
+| Ferrari 312T                | RWD |  606 kg |  495 bhp |  308 Nm |  320 km/h |    |   |
+| Ferrari 330 P4              | RWD |  792 kg |  450 bhp |         |  320 km/h |    |   |               
+| Ferrari 458 GT2             | RWD | 1245 kg |  470 bhp |  520 Nm | 270+ km/h | ❌ | ✅ |              
+| Ferrari 458 Italia          | RWD | 1573 kg |  570 bhp |  540 Nm | 325+ km/h |    |   |                      
+| Ferrari 458 Italia Stage 3  | RWD | 1140 kg |  570 bhp |  540 Nm | 325+ km/h |    |   |                      
+| Ferrari 488 GT3             | RWD | 1270 kg |  500 bhp |  640 Nm |           | ✅ | ✅ |               
+| Ferrari 488 GTB             | RWD | 1370 kg |  660 bhp |  760 Nm |  330 km/h |    |   |
+| Ferrari 599XX Evo           | RWD | 1310 kg |  750 bhp |  700 Nm |  303 km/h |    |   |
+| Ferrari 812 Superfast       | RWD | 1525 kg |  800 bhp |  718 Nm | 340+ km/h |                        
+| Ferrari F138                | RWD |  642 kg |  763 bhp |  310 Nm |           |    |   |
+| Ferrari F2004               | RWD |         |  865 bhp |         |           |    |   |
+| Ferrari F40                 | RWD | 1175 kg |  478 bhp |  577 Nm |  324 km/h |    |   |
+| Ferrari F40 Stage 3         | RWD | 1175 kg | 610+ bhp |  715 Nm |           |    |   |
+| Ferrari FXX K               | RWD |         | 1050 bhp | 900+ Nm | 350+ km/h |    |   |
+| Ferrari GTO                 | RWD | 1160 kg |  400 bhp |  496 Nm |  305 km/h |    |   |
+| Ferrari LaFerrari           | RWD |         |  963 bhp | 900+ Nm | 350+ km/h |    |   |
+| Ferrari SF15-T              | RWD |  702 kg |  840 bhp |  721 Nm |           |    |   |
+| Ferrari SF70H               | RWD |                  
+                      
+## Ford
+|                             |     | Weight  | Power   | Torque | Top speed | ABS | TC |
+| --------------------------- |:---:| -------:| -------:| ------:| ---------:|:---:|:--:|
+| Ford Escort RS1600
+| Ford GT40
+| Ford Mustang 2015
 
-## Ford (3)
+## KTM
+|                             |     | Weight  | Power   | Torque | Top speed | ABS | TC |
+| --------------------------- |:---:| -------:| -------:| ------:| ---------:|:---:|:--:|
+| KTM X-Bow R
 
-* Ford Escort RS1600
-* Ford GT40
-* Ford Mustang 2015
+## Lamborghini
+|                             |     | Weight  | Power   | Torque | Top speed | ABS | TC |
+| --------------------------- |:---:| -------:| -------:| ------:| ---------:|:---:|:--:|
+| Lamborghini Aventador SV
+| Lamborghini Countach
+| Lamborghini Gallardo Superleggera
+| Lamborghini Huracan GT3
+| Lamborghini Huracan Performante
+| Lamborghini Huracan ST
+| Lamborghini Miura
+| Lamborghini Sesto Elemento
 
-## KTM (1)
+## Lotus
+|                             |     | Weight  | Power   | Torque | Top speed | ABS | TC |
+| --------------------------- |:---:| -------:| -------:| ------:| ---------:|:---:|:--:|
+| Lotus 2-Eleven
+| Lotus 2-Eleven GT4
+| Lotus 3-Eleven
+| Lotus Elise SC
+| Lotus Evora GTC
+| Lotus Evora GTE
+| Lotus Evora GTE Carbon
+| Lotus Evora GX
+| Lotus Evora S
+| Lotus Exige 240R
+| Lotus Exige S
+| Lotus Exige S Roadster
+| Lotus Exige Scura
+| Lotus Exige V6 CUP
+| Lotus Exos T125
 
-* KTM X-Bow R
+## Lotus Classic Cars
+|                             |     | Weight  | Power   | Torque | Top speed | ABS | TC |
+| --------------------------- |:---:| -------:| -------:| ------:| ---------:|:---:|:--:|
+| Lotus Type 72D
+| Lotus Type 98T
+| Lotus Type 25
+| Lotus Type 49
 
-## Lamborghini (8)
+## Maserati
+|                             |     | Weight  | Power   | Torque | Top speed | ABS | TC |
+| --------------------------- |:---:| -------:| -------:| ------:| ---------:|:---:|:--:|
+| Maserati 250F 12 cylinder
+| Maserati 250F 6 cylinder
+| Maserati Alfieri
+| Maserati GranTurismo MC GT4
+| Maserati Levante S
+| Maserati MC12 GT1
+| Maserati Quattroporte GTS
 
-* Lamborghini Aventador SV
-* Lamborghini Countach
-* Lamborghini Gallardo Superleggera
-* Lamborghini Huracan GT3
-* Lamborghini Huracan Performante
-* Lamborghini Huracan ST
-* Lamborghini Miura
-* Lamborghini Sesto Elemento
+## Mazda
+|                     |     | Weight  | Power   | Torque | Top speed | ABS | TC |
+| ------------------- |:---:| -------:| -------:| ------:| ---------:|:---:|:--:|
+| Mazda 787B          | RWD |  845 kg | 690 bhp | 608 Nm | 340+ km/h |   |    |
+| Mazda MX-5 Miata NA | RWD | 1040 kg | 130 bhp | 152 Nm | 197+ km/h |   |    |
+| Mazda MX-5 Cup      | RWD |  908 kg | 160 bhp | 200 Nm |           | ✅ | ❌ |
+| Mazda MX-5 ND       | RWD | 1058 kg | 160 bhp | 200 Nm |  214 km/h |   |    |
+| Mazda RX-7 Spirit R | RWD | 1270 kg | 276 bhp | 314 Nm |  256 km/h |   |    |
+| Mazda RX-7 Tuned    | RWD | 1312 kg | 444 bhp | 398 Nm |           |   |    |
 
-## Lotus (15)
-
-* Lotus 2-Eleven
-* Lotus 2-Eleven GT4
-* Lotus 3-Eleven
-* Lotus Elise SC
-* Lotus Evora GTC
-* Lotus Evora GTE
-* Lotus Evora GTE Carbon
-* Lotus Evora GX
-* Lotus Evora S
-* Lotus Exige 240R
-* Lotus Exige S
-* Lotus Exige S Roadster
-* Lotus Exige Scura
-* Lotus Exige V6 CUP
-* Lotus Exos T125
-
-## Lotus Classic Cars (4)
-
-* Lotus Type 72D
-* Lotus Type 98T
-* Lotus Type 25
-* Lotus Type 49
-
-## Maserati (7)
-
-* Maserati 250F 12 cylinder
-* Maserati 250F 6 cylinder
-* Maserati Alfieri
-* Maserati GranTurismo MC GT4
-* Maserati Levante S
-* Maserati MC12 GT1
-* Maserati Quattroporte GTS
-
-## Mazda (6)
-
-* Mazda 787B
-* Mazda MX-5 Cup
-* Mazda MX-5 ND
-* Mazda MX-5 Miata NA
-* Mazda RX-7 Spirit R
-* Mazda RX-7 Tuned
-
-## McLaren (7)
-
-* McLaren 570S
-* McLaren 650S GT3
-* McLaren F1 GTR
-* McLaren MP4-12C
-* McLaren MP4-12C GT3
-* McLaren P1 GTR
-* McLaren P1
+## McLaren
+|                             |     | Weight  | Power   | Torque | Top speed | ABS | TC |
+| --------------------------- |:---:| -------:| -------:| ------:| ---------:|:---:|:--:|
+| McLaren 570S
+| McLaren 650S GT3
+| McLaren F1 GTR
+| McLaren MP4-12C
+| McLaren MP4-12C GT3
+| McLaren P1 GTR
+| McLaren P1
 
 
-## Mercedes-Benz (5)
+## Mercedes-Benz
+|                           |     | Weight  | Power   | Torque | Top speed | ABS | TC |
+| ------------------------- |:---:| -------:| -------:| ------:| ---------:|:---:|:--:|
+| Mercedes-Benz SLS AMG     | RWD | 1620 kg |  571 bhp | 650 Nm | 317+ km/h |
+| Mercedes-Benz SLS AMG GT3 | RWD | 1265 kg |  520 bhp | 600 Nm | 280+ km/h |
+| Mercedes-Benz 190E Evo II | RWD |  980 kg | 370+ bhp | 310 Nm | 280+ km/h |
+| Mercedes-Benz AMG GT3     | RWD | 1265 kg |  520 bhp | 600 Nm | 280+ km/h |
+| Mercedes-Benz C9 1989 LM  | RWD |  905 kg | 750+ bhp | 500 Nm | 380+ km/h |
 
-* Mercedes-Benz SLS AMG
-* Mercedes-Benz SLS AMG GT3
-* Mercedes-Benz 190E Evo II
-* Mercedes-Benz AMG GT3
-* Mercedes-Benz C9 1989 LM
+## Nissan
+|                                |     | Weight  | Power   | Torque | Top speed | ABS | TC |
+| ------------------------------ |:---:| -------:| -------:| ------:| ---------:|:---:|:--:|
+| Nissan 370Z NISMO              | RWD | 1498 kg | 350 bhp | 374 Nm |  250 km/h |
+| Nissan GT-R NISMO GT3          | RWD | 1300 kg | 600 bhp | 700 Nm | 280+ km/h |     
+| Nissan GT-R NISMO              | AWD | 1750 kg | 592 bhp | 652 Nm |  313 km/h |
+| Nissan Skyline GTR R34 V-Spec  | AWD | 1560 kg | 325 bhp | 392 Nm | 250+ km/h |
 
-## Nissan (4)
+## Pagani
+|                             |     | Weight  | Power   | Torque | Top speed | ABS | TC |
+| --------------------------- |:---:| -------:| -------:| ------:| ---------:|:---:|:--:|
+| Pagani Huayra
+| Pagani Huayra BC
+| Pagani Zonda R
 
-* Nissan 370Z NISMO
-* Nissan GT-R NISMO GT3
-* Nissan GT-R NISMO
-* Nissan Skyline GT-R Skyline V-Spec, R34
+## Porsche
+|                             |     | Weight  | Power   | Torque | Top speed | ABS | TC |
+| --------------------------- |:---:| -------:| -------:| ------:| ---------:|:---:|:--:|
+| Porsche 718 Boxster S
+| Porsche 718 Boxster S PDK
+| Porsche 718 Cayman S
+| Porsche 718 RS 60 Spyder
+| Porsche 908 LH
+| Porsche 911 Carrera RSR 3.0
+| Porsche 911 Carrera S
+| Porsche 911-98 GT1
+| Porsche 911 GT3 Cup 2017
+| Porsche 911 GT3 R 2016
+| Porsche 911 GT3 RS
+| Porsche 911 R
+| Porsche 911 RSR 2017
+| Porsche 911 Turbo S 991
+| Porsche 917 K
+| Porsche 917/30 Sypder 
+| Porsche 918 Spyder
+| Porsche 919 Hybrid 2015
+| Porsche 919 Hybrid 2016
+| Porsche 935/78 Moby Dick
+| Porsche 962C Long tail
+| Porsche 962C Short tail
+| Porsche Cayenne Turbo S
+| Porsche Cayman GT4
+| Porsche Cayman GT4 Clubsport
+| Porsche Macan Turbo
+| Porsche Panamera Turbo
 
-## Pagani (3)
+## Praga
+|                             |     | Weight  | Power   | Torque | Top speed | ABS | TC |
+| --------------------------- |:---:| -------:| -------:| ------:| ---------:|:---:|:--:|
+| Praga R1 (Ready To Race Pack)
 
-* Pagani Huayra
-* Pagani Huayra BC
-* Pagani Zonda R
+## RUF
+|                             |     | Weight  | Power   | Torque | Top speed | ABS | TC |
+| --------------------------- |:---:| -------:| -------:| ------:| ---------:|:---:|:--:|
+| RUF CTR Yellowbird
+| RUF RT 12R
+| RUF RT 12R AWD
 
-## Porsche (27)
+## Scuderia Glickenhaus
+|                             |     | Weight  | Power   | Torque | Top speed | ABS | TC |
+| --------------------------- |:---:| -------:| -------:| ------:| ---------:|:---:|:--:|
+| Scuderia Glickenhaus P4/5 Competizione
+| Scuderia Glickenhaus SCG 003
 
-* Porsche 718 Boxster S
-* Porsche 718 Boxster S PDK
-* Porsche 718 Cayman S
-* Porsche 718 RS 60 Spyder
-* Porsche 908 LH
-* Porsche 911 Carrera RSR 3.0
-* Porsche 911 Carrera S
-* Porsche 911-98 GT1
-* Porsche 911 GT3 Cup 2017
-* Porsche 911 GT3 R 2016
-* Porsche 911 GT3 RS
-* Porsche 911 R
-* Porsche 911 RSR 2017
-* Porsche 911 Turbo S 991
-* Porsche 917 K
-* Porsche 917/30 Sypder 
-* Porsche 918 Spyder
-* Porsche 919 Hybrid 2015
-* Porsche 919 Hybrid 2016
-* Porsche 935/78 Moby Dick
-* Porsche 962C Long tail
-* Porsche 962C Short tail
-* Porsche Cayenne Turbo S
-* Porsche Cayman GT4
-* Porsche Cayman GT4 Clubsport
-* Porsche Macan Turbo
-* Porsche Panamera Turbo
+## Shelby
+|                             |     | Weight  | Power   | Torque | Top speed | ABS | TC |
+| --------------------------- |:---:| -------:| -------:| ------:| ---------:|:---:|:--:|
+| Shelby Cobra 427 S/C
 
-## Praga (1)
+## Tatuus
+|                             |     | Weight  | Power   | Torque | Top speed | ABS | TC |
+| --------------------------- |:---:| -------:| -------:| ------:| ---------:|:---:|:--:|
+| Tatuus FA01
 
-* Praga R1 (Ready To Race Pack)
-
-## RUF (3)
-
-* RUF CTR Yellowbird
-* RUF RT 12R
-* RUF RT 12R AWD
-
-## Scuderia Glickenhaus (2)
-
-* Scuderia Glickenhaus P4/5 Competizione
-* Scuderia Glickenhaus SCG 003
-
-## Shelby (1)
-
-* Shelby Cobra 427 S/C
-
-## Tatuus (1)
-
-* Tatuus FA01
-
-## Toyota (9)
-
-* Toyota AE86
-* Toyota AE86 Drift
-* Toyota AE86 Tuned
-* Toyota Celica ST185
-* Toyota GT86
-* Toyota Supra MK IV
-* Toyota Supra MK IV Drift
-* Toyota Supra Time Attack
-* Toyota TS040 Hybrid
+## Toyota
+|                          |     | Weight  | Power   | Torque | Top speed | ABS | TC |
+| ------------------------ |:---:| -------:| -------:| ------:| ---------:|:---:|:--:|
+| Toyota AE86              | RWD |  925 kg |  122 bhp | 142 Nm | 196 km/h |
+| Toyota AE86 Drift        | RWD |  920 kg |  185 bhp | 206 Nm |
+| Toyota AE86 Tuned        | RWD |  900 kg |  200 bhp | 206 Nm | 
+| Toyota Celica ST185      | AWD | 1045 kg |  295 bhp | 459 Nm | 
+| Toyota GT86              | RWD | 1250 kg |  200 bhp | 205 Nm | 233 km/h |
+| Toyota Supra MK IV       | RWD | 1520 kg |  280 bhp | 458 Nm | 249 km/h |
+| Toyota Supra MK IV Drift | RWD | 1505 kg |  624 bhp | 756 Nm | 
+| Toyota Supra Time Attack | RWD | 1505 kg |  690 bhp | 756 Nm | 
+| Toyota TS040 Hybrid      | AWD |         | 1000 bhp |        | 320 km/h |
