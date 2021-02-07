@@ -162,7 +162,7 @@
 | ------------------- |:---:| -------:| -------:| ------:| ---------:|:---:|:--:|
 | Mazda 787B          | RWD |  845 kg | 690 bhp | 608 Nm | 340+ km/h |   |    |
 | Mazda MX-5 Miata NA | RWD | 1040 kg | 130 bhp | 152 Nm | 197+ km/h |   |    |
-| Mazda MX-5 Cup      | RWD |  908 kg | 160 bhp | 200 Nm |           | ✅ | ❌ |
+| Mazda MX-5 Cup      | RWD |  908 kg | 160 bhp | 200 Nm |           | ✅ | ✅ |
 | Mazda MX-5 ND       | RWD | 1058 kg | 160 bhp | 200 Nm |  214 km/h |   |    |
 | Mazda RX-7 Spirit R | RWD | 1270 kg | 276 bhp | 314 Nm |  256 km/h |   |    |
 | Mazda RX-7 Tuned    | RWD | 1312 kg | 444 bhp | 398 Nm |           |   |    |
